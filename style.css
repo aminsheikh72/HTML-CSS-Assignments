@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+    /* position: relative; */
+   
+}
+.main-con{
+    width: 100%;
+    height: auto;
+    background-image: url('./back.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;  
+    /* position: fixed; */
+    
+
+}
+
+
